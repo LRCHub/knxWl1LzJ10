@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "戦闘！初音ミク",
+  "base_artist": "cosMo@暴走P",
+  "createdAt": "2026-01-13T08:27:46.269891Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "戦闘!初音ミク",
+      "artist": "cosMo@暴走P",
+      "has_synced": false,
+      "path": "select/pl_01_戦闘!初音ミク_cosMo@暴走P.txt"
+    }
+  ]
+}
